@@ -1,0 +1,3 @@
+include ':jwdlibrary'
+include ':app'
+rootProject.name = "JWDLibraryExample"
